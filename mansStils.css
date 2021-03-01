@@ -1,0 +1,30 @@
+body {
+  background-color:  lime;
+}
+h1 {
+  color:  hotpink;
+  background-color: darkkhaki;
+  font-size: 55px;
+}
+p {
+  color: brown;
+  font-size: 42px;
+}
+li {
+    color:  tomato;
+    font-size: 17px;
+}
+th {
+    color:  azure;
+     font: cursive;
+    font-size: 38px;
+}
+td {
+    color:  midnightblue;
+    font: caption;
+    font-size: 30px;
+     
+}
+table{
+    border: 69px;
+}
